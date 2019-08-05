@@ -13,7 +13,7 @@ h1{
 }
 #headline{
 }
-h2{
+h2 {
   text-transform:uppercase;
   font-size:20px;
   letter-spacing:0.2em;
@@ -28,7 +28,7 @@ First column
 ****************/
 .column-one{
   float:left;
-  width:30%;
+  width:400px;
   height:1120px;
   background-color:#4EDFEB;
   color: #000000;
